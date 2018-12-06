@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5c00bad02791700d1ff260a8"},"Class":"Lớp N5.1 ","Class_ID":"5100","createdAt":{"$date":"2018-11-30T04:21:36.687Z"},"updatedAt":{"$date":"2018-12-01T15:17:31.974Z"},"__v":0,"id":"5c00bad02791700d1ff260a8"}
+{"_id":{"$oid":"5c00baed2791700d1ff260a9"},"Class":"Lớp N5.2","Class_ID":"5200","createdAt":{"$date":"2018-11-30T04:22:05.117Z"},"updatedAt":{"$date":"2018-11-30T04:22:05.125Z"},"__v":0,"id":{"$oid":"5c00baed2791700d1ff260a9"}}
+{"_id":{"$oid":"5c00bafc2791700d1ff260aa"},"Class":"Lớp N4.1","Class_ID":"4100","createdAt":{"$date":"2018-11-30T04:22:20.925Z"},"updatedAt":{"$date":"2018-11-30T04:22:20.931Z"},"__v":0,"id":{"$oid":"5c00bafc2791700d1ff260aa"}}
+{"_id":{"$oid":"5c00bb052791700d1ff260ab"},"Class":"Lớp N4.2","Class_ID":"4200","createdAt":{"$date":"2018-11-30T04:22:29.430Z"},"updatedAt":{"$date":"2018-11-30T04:22:29.438Z"},"__v":0,"id":{"$oid":"5c00bb052791700d1ff260ab"}}
+{"_id":{"$oid":"5c00bb112791700d1ff260ac"},"Class":"Lớp N3.1","Class_ID":"3100","createdAt":{"$date":"2018-11-30T04:22:41.782Z"},"updatedAt":{"$date":"2018-11-30T04:22:41.788Z"},"__v":0,"id":{"$oid":"5c00bb112791700d1ff260ac"}}
+{"_id":{"$oid":"5c00bb1a2791700d1ff260ad"},"Class":"Lớp N3.2","Class_ID":"3200","createdAt":{"$date":"2018-11-30T04:22:50.403Z"},"updatedAt":{"$date":"2018-11-30T04:22:50.419Z"},"__v":0,"id":{"$oid":"5c00bb1a2791700d1ff260ad"}}

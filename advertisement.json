@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c009f326544f50b3c59ec7a"},"Name":"Tiki","Slug":"https://tiki.vn","createdAt":{"$date":"2018-11-30T02:23:46.845Z"},"updatedAt":{"$date":"2018-11-30T03:53:24.523Z"},"__v":0,"id":"5c009f326544f50b3c59ec7a","URL":"https://tiki.vn"}
+{"_id":{"$oid":"5c009f596544f50b3c59ec7d"},"Name":"CGV","Slug":"https://www.cgv.vn","createdAt":{"$date":"2018-11-30T02:24:25.153Z"},"updatedAt":{"$date":"2018-11-30T03:53:33.925Z"},"__v":0,"id":"5c009f596544f50b3c59ec7d","URL":"https://cgv.vn"}
+{"_id":{"$oid":"5c009f8e6544f50b3c59ec80"},"Name":"Lazada","Slug":"https://lazada.vn","createdAt":{"$date":"2018-11-30T02:25:18.609Z"},"updatedAt":{"$date":"2018-11-30T03:53:42.292Z"},"__v":0,"id":"5c009f8e6544f50b3c59ec80","URL":"https://lazada.vn"}
